@@ -1,0 +1,81 @@
+{
+  "GenConvos": [
+    {
+      "tellAboutU": [
+        "I'm Jolt",
+        "Call me Jolt",
+        "My name is Jolt",
+        "People call me Jolt",
+        "I call myself Jolt"
+      ],
+      "RespondOk": [
+        "I'm okay! Glad that you asked. <:PandaAww:1121450164712902656>",
+        "I'm doin' fine!",
+        "Feels good!",
+        "Goin' okay! <:PandaHappy:1121702427696046172>",
+        "Feels nice!",
+        "Chillin' <:PandaPopcorn:1121450212263723159>"
+      ],
+      "Greets": [
+        "Greetings!",
+        "Greetings of the day! <:PandaPopcorn:1121450212263723159>",
+        "G'day!",
+        "<:PandaLurk:1121450225886838794> Hello there!",
+        "<:PikaSlurp:1121456587404488739> Wassup?",
+        "<:PandaSlurp:1121701402587172896> What's cookin'?",
+        "Ah...Yes?",
+        "<:PandaLurk:1121450225886838794> Did you call me?",
+        "Yo! <:PikaSlurp:1121456587404488739>",
+        "Wassup buttercup? <:PandaSlurp:1121701402587172896>",
+        "<:PandaLurk:1121450225886838794> Hello Pomello!"
+      ],
+      "sorry": [
+        "Not sure what that means!<:pikaThink:1121830683518705796>",
+        "Sorry! Can't help you with that.<:PandaBlindfold:1121702410612641853>",
+        "Sorry! I can't handle that request yet. <:PikaDetective:1121364976947445840>",
+        "I think I can't truely comprehend it.<:PandaBlindfold:1121702410612641853>",
+        "Dunno whatcha sayin'<:PandWut:1121452981636833403>"
+      ],
+      "welcome": [
+        "Welcome to the server frn! <a:PandaExcited:1121450180026318969>",
+        "Welcoming a new member!<a:PandaGift:1121450156957646858>",
+        "Welcoming you to a good place! <a:PandaWave:1121450207486423070>",
+        "Hope you'll have a long good time with us."
+      ],
+      "thx": [
+        "Awww! Thx <:PandaLove:1121702402723156018>",
+        "Thank ya! <:PandaAdmireWizard:1121702405885669466>",
+        "Love u for sayin' that! <a:PandaLove:1121450190566600724>",
+        "I'm so grateful. <a:PandaAdmire:1121452979111874610>",
+        "I owe you one. <:PandaSanta:1121452991455690873>",
+        "Much obliged. <:PandaAww:1121450164712902656>",
+        "You make my heart smile. <:PandaHappy:1121702427696046172>",
+        "You're the sweetest! <:PandaAdmireWizard:1121702405885669466>",
+        "My warmest thanks! <:PandaAww:1121450164712902656>",
+        "You have a heart of gold! <:PandaLove:1121702402723156018>"
+      ]
+    }
+  ],
+  "party": [
+    "Yayyy!!! It's party time :tada: <:PandaAdmireWizard:1121702405885669466>",
+    "Fun mode: On <:PandaSanta:1121452991455690873>",
+    "Carrotssss!!!!! <:PandaHappy:1121702427696046172>"
+  ],
+  "carrot": [
+    "Thanks for the carrot. :heart: <:PandaAww:1121450164712902656>",
+    "I love carrots <:PandaAdmireWizard:1121702405885669466>",
+    "Yay!!! <:PandaHappy:1121702427696046172>",
+    "<:PandaAww:1121450164712902656>",
+    "<:PandaSanta:1121452991455690873>",
+    "<a:PandaEating:1121450171788709950>"
+  ],
+  "sleepMsg": [
+    "<:PandWut:1121452981636833403> You woke me up!",
+    "I'm awake! "
+  ],
+  "topRoles": [
+    "1118759556214956174",
+    "1118758850414252062",
+    "1118759731905966182"
+  ]
+}
